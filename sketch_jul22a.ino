@@ -8,8 +8,8 @@
 
 #define FIREBASE_HOST "loveboxtest.firebaseio.com"                         // the project name address from firebase id
 #define FIREBASE_AUTH "jqCBe0X42WOZh5Q6Q2Gp8NkNKsOhhpD3aOeCPxVn"                    // the secret key generated from firebase
-#define WIFI_SSID "Mitrovic"                                          // input your home or public wifi name 
-#define WIFI_PASSWORD "plisanimeda97" 
+#define WIFI_SSID ""                                          // input your home or public wifi name 
+#define WIFI_PASSWORD "" 
 #define SCREEN_WIDTH 320  
 #define SCREEN_HEIGHT 240
 
